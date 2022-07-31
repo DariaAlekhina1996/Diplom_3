@@ -1,0 +1,10 @@
+Login.class
+Steps.class
+ConstructorSectionTest.class
+RegistrationTest.class
+LogoutTest.class
+SwitchToProfilePageTest.class
+LoginTest.class
+Registration.class
+SwitchBetweenProfileAndConstructorTest.class
+BaseTest.class
